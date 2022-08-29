@@ -2,8 +2,7 @@ package tech.getarrays.employeemanager;
 
 import java.util.List;
 
-import org.springframework.http.HttpStatus;
-import org.springframework.http.ResponseEntity;
+import org.springframework.http.*;
 import org.springframework.web.bind.annotation.*;
 
 import tech.getarrays.employeemanager.model.Employee;
